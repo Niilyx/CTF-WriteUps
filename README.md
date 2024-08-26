@@ -1,2 +1,2 @@
 # CTF-WriteUps
-Les write-ups des CTF que j'ai seront mis ici.
+Les write-ups des CTF que j'ai fait seront mis ici.
